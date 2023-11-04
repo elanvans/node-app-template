@@ -1,1 +1,1 @@
-# scale-app
+# Node App Template
