@@ -17,4 +17,4 @@ node_modules
 .yarn
 logs
 
-yarn.lock
+#yarn.lock
